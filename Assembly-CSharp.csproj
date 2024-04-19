@@ -36,11 +36,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Free 2D Cartoon Parallax Background/Demo/Script/ParallaxBackground_0.cs" />
-     <Compile Include="Assets/Free 2D Cartoon Parallax Background/Demo/Script/BackgroundControl_0.cs" />
-     <Compile Include="Assets/2D Tactics Character Animated/Assets/Scripts/AnimationController.cs" />
-     <Compile Include="Assets/2D Tactics Character Animated/Assets/Scripts/LookAtCamera.cs" />
      <Compile Include="Assets/2D Tactics Character Animated/Assets/Scripts/PlayerMovement.cs" />
+     <Compile Include="Assets/2D Tactics Character Animated/Assets/Scripts/AnimationController.cs" />
+     <Compile Include="Assets/Free 2D Cartoon Parallax Background/Demo/Script/ParallaxBackground_0.cs" />
+     <Compile Include="Assets/2D Tactics Character Animated/Assets/Scripts/LookAtCamera.cs" />
+     <Compile Include="Assets/Scenes/Scripts/RepeatBackground.cs" />
+     <Compile Include="Assets/Free 2D Cartoon Parallax Background/Demo/Script/BackgroundControl_0.cs" />
+     <Compile Include="Assets/Scenes/Scripts/MoveLeft.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/2020.3.27f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
